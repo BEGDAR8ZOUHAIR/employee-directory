@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Zouhair begdar",
+        "jobTitle": "Software Engineer",
+        "department": "Engineering",
+        "email": "begdar.doe@example.com"
+    },
+    {
+        "id": 2,
+        "name": "Fouad Fatahi",
+        "jobTitle": "Gamer",
+        "department": "Engineering",
+        "email": "john.doe@example.com"
+    },
+    {
+        "id": 3,
+        "name": "John Ali",
+        "jobTitle": "Software Engineer",
+        "department": "Engineering",
+        "email": "ali.doe@example.com"
+    }
+
+
+
+]
